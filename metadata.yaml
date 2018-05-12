@@ -1,0 +1,29 @@
+_repo: International-Congress-of-Arts-and-Science-Volume-IPhilosophy-and-Metaphysics_38267
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Rogers, Howard J. (Howard Jason)
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '39357'
+    url: http://www.gutenberg.org/2009/agents/39357
+description: ''
+gutenberg_issued: '2011-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Technology -- Congresses'
+- !lcsh 'Science and the humanities -- Congresses'
+- !lcc 'AS'
+- !lcsh 'Medicine -- Congresses'
+- !lcsh 'Conference proceedings'
+title: "International Congress of Arts and Science, Volume 1\r\nPhilosophy and Metaphysics"
+url: http://www.gutenberg.org/ebooks/38267
