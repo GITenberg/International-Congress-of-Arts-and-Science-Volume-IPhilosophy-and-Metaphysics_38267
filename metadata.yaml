@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39357'
     url: http://www.gutenberg.org/2009/agents/39357
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38267#International-Congress-of-Arts-and-Science-Volume-IPhilosophy-and-Metaphysics
 gutenberg_issued: '2011-12-10'
 gutenberg_type: Text
 identifiers:
